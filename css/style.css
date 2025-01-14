@@ -225,7 +225,7 @@ body {
     height: 295px;
     margin-bottom: 20px;
     border: 2px solid black;
-    border-radius: 10px;
+    border-radius: 20px;
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);    
     box-sizing: border-box;
 }
