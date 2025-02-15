@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'commebold';
-    src: url('../Fonts/comme-bold-webfont.woff2') format('woff2'),
+    src: url('../fonts/comme-bold-webfont.woff2') format('woff2'),
          url('../fonts/comme-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
