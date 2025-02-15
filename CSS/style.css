@@ -2,8 +2,8 @@
 
 @font-face {
     font-family: 'commebold';
-    src: url('../Fonts/comme-bold-webfont.woff2') format('woff2'),
-         url('../Fonts/comme-bold-webfont.woff') format('woff');
+    src: url('../fonts/comme-bold-webfont.woff2') format('woff2'),
+         url('../fonts/comme-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -11,8 +11,8 @@
 
 @font-face {
     font-family: 'commeextrabold';
-    src: url('../Fonts/comme-extrabold-webfont.woff2') format('woff2'),
-         url('../Fonts/comme-extrabold-webfont.woff') format('woff');
+    src: url('../fonts/comme-extrabold-webfont.woff2') format('woff2'),
+         url('../fonts/comme-extrabold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -20,8 +20,8 @@
 
 @font-face {
     font-family: 'commeextralight';
-    src: url('../Fonts/comme-extralight-webfont.woff2') format('woff2'),
-         url('../Fonts/comme-extralight-webfont.woff') format('woff');
+    src: url('../fonts/comme-extralight-webfont.woff2') format('woff2'),
+         url('../fonts/comme-extralight-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -29,8 +29,8 @@
 
 @font-face {
     font-family: 'commeheavy';
-    src: url('../Fonts/comme-heavy-webfont.woff2') format('woff2'),
-         url('../Fonts/comme-heavy-webfont.woff') format('woff');
+    src: url('../fonts/comme-heavy-webfont.woff2') format('woff2'),
+         url('../fonts/comme-heavy-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -38,8 +38,8 @@
 
 @font-face {
     font-family: 'commelight';
-    src: url('../Fonts/comme-light-webfont.woff2') format('woff2'),
-         url('../Fonts/comme-light-webfont.woff') format('woff');
+    src: url('../fonts/comme-light-webfont.woff2') format('woff2'),
+         url('../fonts/comme-light-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -47,8 +47,8 @@
 
 @font-face {
     font-family: 'commemedium';
-    src: url('../Fonts/comme-medium-webfont.woff2') format('woff2'),
-         url('../Fonts/comme-medium-webfont.woff') format('woff');
+    src: url('../fonts/comme-medium-webfont.woff2') format('woff2'),
+         url('../fonts/comme-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -56,8 +56,8 @@
 
 @font-face {
     font-family: 'commeregular';
-    src: url('../Fonts/comme-regular_1-webfont.woff2') format('woff2'),
-         url('../Fonts/comme-regular_1-webfont.woff') format('woff');
+    src: url('../fonts/comme-regular_1-webfont.woff2') format('woff2'),
+         url('../fonts/comme-regular_1-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -65,8 +65,8 @@
 
 @font-face {
     font-family: 'commesemibold';
-    src: url('../Fonts/comme-semibold-webfont.woff2') format('woff2'),
-         url('../Fonts/comme-semibold-webfont.woff') format('woff');
+    src: url('../fonts/comme-semibold-webfont.woff2') format('woff2'),
+         url('../fonts/comme-semibold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -74,8 +74,8 @@
 
 @font-face {
     font-family: 'commethin';
-    src: url('../Fonts/comme-thin-webfont.woff2') format('woff2'),
-         url('../Fonts/comme-thin-webfont.woff') format('woff');
+    src: url('../fonts/comme-thin-webfont.woff2') format('woff2'),
+         url('../fonts/comme-thin-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
